@@ -21,8 +21,8 @@ A deeper dive into me... TBD-->
 
 ---
 ## My Tech Stack:
-<img src="https://lh3.googleusercontent.com/4DBD9iE9GmERXzceuzjnPoIK5TIoxoQaFJ8LU85jodGLy3ZsCDpMDlgzt4aDRIw8QlVMiMuCEZ1qmESBIKd36dRriNnISRqZouRd2foAfkKX0kro4OoSFUgWqXLsCOHWeyl86fy-9w=w1920-h1080" alt="my tech-stack, icons from the wonderful Eugenio Ciccale" align="left" width="600" link="https://www.figma.com/community/file/1095337897898466786">
-<img src="https://64.media.tumblr.com/53bc198c9f87786ffed49df0ff602188/tumblr_nlszp7C39Q1qc8gdjo9_640.png" alt="Astute Nug" width="275" align="right">
+<img src="https://lh3.googleusercontent.com/4DBD9iE9GmERXzceuzjnPoIK5TIoxoQaFJ8LU85jodGLy3ZsCDpMDlgzt4aDRIw8QlVMiMuCEZ1qmESBIKd36dRriNnISRqZouRd2foAfkKX0kro4OoSFUgWqXLsCOHWeyl86fy-9w=w1920-h1080" alt="my tech-stack, icons from the wonderful Eugenio Ciccale" align="left" width="525" link="https://www.figma.com/community/file/1095337897898466786">
+<img src="https://64.media.tumblr.com/53bc198c9f87786ffed49df0ff602188/tumblr_nlszp7C39Q1qc8gdjo9_640.png" alt="Astute Nug" width="250" align="right">
 
 <!-- 
 Great ReadMe's for inspo [Pawan Kumar](https://github.com/iampawan)
