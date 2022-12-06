@@ -7,7 +7,7 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 ## Quick About Me:
 - 🍄 Pronouns: She/Her
 - 🐉 I’m currently working on [Dragons Keep](https://github.com/Bissle141/DragonsKeep).  
-  - A full-stack, online compendium of characters from one of my favorite games, Dragon Age Inquisition. This project is the culmination of all that I have learned during the first half of my time at [Devmountain](https://devmountain.com).🏔
+  - This project is the culmination of all that I have learned during the first half of my time at [Devmountain](https://devmountain.com).🏔
 - 🌱 I’m currently learning about runtime and space complexity (Big O)
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
