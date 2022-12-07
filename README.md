@@ -11,6 +11,7 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 - 🌱 I’m currently learning about runtime and space complexity (Big O)
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
+  -  [AlyssaBlackDev@gmail.com](mailto:AlyssaBlackDev@gmail.com)
 - ⚡ Fun fact: I have too many hobbies. Book-binding, game-development, playing games, writing, building/refurbishing furniture... I'm always up to somethin
 
 
