@@ -12,14 +12,21 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
   -  [AlyssaBlackDev@gmail.com](mailto:AlyssaBlackDev@gmail.com)
+  -  [Portfolio Site](https://bissle141.github.io)
 - ⚡ Fun fact: I have too many hobbies. Book-binding, game-development, playing games, writing, building/refurbishing furniture... I'm always up to somethin
+<br></br>
 
-<!-- ---
+---
 
 ## My Coding Journey So Far:
-A deeper dive into me... TBD-->
+
+With parents in the tech industry and later siblings as well, I have been surrounded by tech since I was young and have flirted with diving in myself many times. In highschool I joined the robotics team and a game design class. In both I was taught and exposed to a lot, mostly C++ and C#. <br></br>
+When I went to college, I decided to pursue a degree in computer science, but after only a year the pandemic started in full swing and college became infeasible. However, after a bit of rerouting and waiting, I am back on track and am now attending Devmountain, a coding bootcamp where I will be focusing on developing my skills as a python focused developer.
+
 <br></br>
+
 ---
+
 ## My Tech Stack:  <img src="https://img.icons8.com/office/512/pancake.png" width="30" align="left">
 <div>
 <img src="https://64.media.tumblr.com/53bc198c9f87786ffed49df0ff602188/tumblr_nlszp7C39Q1qc8gdjo9_640.png" alt="Astute Nug" width="300" align="left">
