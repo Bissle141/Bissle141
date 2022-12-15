@@ -8,7 +8,7 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 - 🍄 Pronouns: She/Her
 - 🐉 I’m currently working on [Dragons Keep](https://github.com/Bissle141/DragonsKeep).  
   - This project is the culmination of all that I have learned during the first half of my time at [Devmountain](https://devmountain.com).🏔
-- 🌱 I’m currently learning about runtime and space complexity (Big O)
+- 🌱 I’m currently learning about primitive data-structures in python
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
   -  [AlyssaBlackDev@gmail.com](mailto:AlyssaBlackDev@gmail.com)
