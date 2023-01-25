@@ -13,7 +13,7 @@ Thank you for being here. I hope you like this little sneak peek at the programm
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
   -  [AlyssaBlackDev@gmail.com](mailto:AlyssaBlackDev@gmail.com)
   -  [Portfolio Site](https://bissle141.github.io)
-- ⚡ Fun fact: I have too many hobbies. Book-binding, game-development, playing games, writing, building/refurbishing furniture... I'm always up to somethin
+- ⚡ Fun fact: I have too many hobbies. Book-binding, game-development, playing games, writing, building/refurbishing furniture... I'm always up to something.
 <br></br>
 
 ---
