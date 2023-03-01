@@ -6,9 +6,8 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 <br></br>
 ## Quick About Me:
 - 🍄 Pronouns: She/Her
-- 🐉 I’m currently working on [My Portfolio Site](https://bissle141.github.io).  
-  - This project is the culmination of all that I have learned during the first half of my time at [Devmountain](https://devmountain.com).🏔
-- 🌱 I’m currently learning about primitive data-structures in python
+- 🐉 I’m currently looking for work while utilizing LeetCode to practice/maintain skills
+- 🌱 I’m currently exploring python algorithms 
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
   -  [AlyssaBlackDev@gmail.com](mailto:AlyssaBlackDev@gmail.com)
