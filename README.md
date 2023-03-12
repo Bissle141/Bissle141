@@ -20,8 +20,7 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 
 ## My Coding Journey So Far:
 
-With parents in the tech industry and later siblings as well, I have been surrounded by tech since I was young and have flirted with diving in myself many times. In highschool I joined the robotics team and a game design class. In both I was taught and exposed to a lot, mostly C++ and C#. <br></br>
-When I went to college, I decided to pursue a degree in computer science, but after only a year the pandemic started in full swing and college became infeasible. However, after a bit of rerouting and waiting, I am back on track and am now attending Devmountain, a coding bootcamp where I will be focusing on developing my skills as a python focused developer.
+As a recent graduate of [Devmountain's](https://devmountain.com) Python developer program, I'm committed to expanding and strengthening my technical skills. My coding journey started with a deep curiosity for the endless possibilities of technology. This passion led me to enroll in Devmountain's program, where I learned the fundamentals of programming and gained hands-on experience building a variety of [web-applications](https://youtu.be/PdNTFznkjA0). Since then, I've continued to hone my skills and explore new technologies through personal projects and online courses. I'm always eager to learn and take on new challenges, and I can't wait to see where this journey will take me next!
 
 <br></br>
 
