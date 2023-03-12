@@ -6,7 +6,8 @@ Thank you for being here. I hope you like this little sneak peek at the programm
 <br></br>
 ## Quick About Me:
 - 🍄 Pronouns: She/Her
-- 🐉 I’m currently looking for work while utilizing LeetCode to practice/maintain skills
+- 🐉 I’m currently taking Scott Barrett's Udemy course on python data structures and algorithms 
+  - [Udemy course](https://www.udemy.com/course/data-structures-algorithms-python/)  
 - 🌱 I’m currently exploring python algorithms 
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
