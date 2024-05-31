@@ -3,8 +3,9 @@
 
 ### Quick About Me:
 - 🍄 Pronouns: She/Her
-- 🐉 I am currently working at MagView as a Technical Support Engineer.
-  - I just finished a [Playwright Udemy Course](https://www.udemy.com/course/playwright-from-zero-to-hero/) by Artem Bondar
+- 🎀I am currently working at MagView as a Technical Support Engineer.
+  - 🐉 I just finished a [Playwright Udemy Course](https://www.udemy.com/course/playwright-from-zero-to-hero/) by Artem Bondar
+      - 💻 To practice what I learned from this course I went back and made some Playwright tests for an old project (Compendi). Feel Free to take a look!
 - 🌱 I’m currently exploring automated QA testing frameworks
 - 📫 How to reach me: 
   -  [LinkedIn: Alyssa Black](https://www.linkedin.com/in/alyssablackdev/)
